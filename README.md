@@ -2,6 +2,8 @@
 
 Using the ORB(Oriented FAST and Rotated BRIEF) tracker in OpenCV to track an object and display a bounding box around the ROI. The main reason to chose ORB as a tracker was because it is fast, robust, and above all, free to use.
 
+![GIF](https://sampreets3.github.io/images/orb-tracking.gif)
+
 ---
 
 ### Explanation:
@@ -29,4 +31,4 @@ Here we make use of the ORB detector present in OpenCV, to track a christmas bal
 ### Sources:
 
   1. [_E. Rublee, V. Rabaud, K. Konolige and G. Bradski, "ORB: An efficient alternative to SIFT or SURF,"_ 2011 International Conference on Computer Vision, Barcelona, 2011, pp. 2564-2571.](https://ieeexplore.ieee.org/document/6126544)
-  2. [_OpenCV-Python Read The Docs_ : __ORB(Oriented FAST and Rotated BRIEF)](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_orb/py_orb.html)
+  2. [_OpenCV-Python Read The Docs_ : __ORB(Oriented FAST and Rotated BRIEF__)](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_orb/py_orb.html)

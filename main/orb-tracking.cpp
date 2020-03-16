@@ -87,7 +87,7 @@ int main(int argc, char **argv)
     line(frame, scene_corners[2], scene_corners[3], (255, 0, 0), 2, LINE_8, 0);
     line(frame, scene_corners[3], scene_corners[0], (255, 0, 0), 2, LINE_8, 0);
 
-    imshow("BB with frame", frame);
+    //imshow("BB with frame", frame);
     char c=(char)waitKey(25);
     if(c==27)
     {
