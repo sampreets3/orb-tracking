@@ -2,7 +2,7 @@
 
 Using the ORB(Oriented FAST and Rotated BRIEF) tracker in OpenCV to track an object and display a bounding box around the ROI. The main reason to chose ORB as a tracker was because it is fast, robust, and above all, free to use.
 
-![GIF](https://sampreets3.github.io/images/orb-tracking.gif)
+![GIF](https://sampreets3.github.io/images/orb-tracking.mp4)
 
 ---
 
