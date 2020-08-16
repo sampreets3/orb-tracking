@@ -1,3 +1,7 @@
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
 ## ORB tracking:
 
 Using the ORB(Oriented FAST and Rotated BRIEF) tracker in OpenCV to track an object and display a bounding box around the ROI. The main reason to chose ORB as a tracker was because it is fast, robust, and above all, free to use.
